@@ -12,7 +12,7 @@
 			<key>id</key>
 			<string>getquote</string>
 			<key>image</key>
-			<string>home_menu</string>
+			<string>Messages</string>
 		</dict>
 		<dict>
 			<key>Name</key>
@@ -22,7 +22,7 @@
 			<key>id</key>
 			<string>home</string>
 			<key>image</key>
-			<string>home_menu</string>
+			<string>Invite</string>
 		</dict>
 		<dict>
 			<key>Name</key>
@@ -32,7 +32,7 @@
 			<key>id</key>
 			<string>equity</string>
 			<key>image</key>
-			<string>home_menu</string>
+			<string>Company</string>
 			<key>SubItems</key>
 			<array>
 				<dict>
@@ -43,27 +43,17 @@
 					<key>id</key>
 					<string>indices</string>
 					<key>image</key>
-					<string>home_menu</string>
+					<string>Favorite</string>
 				</dict>
 				<dict>
 					<key>Name</key>
-					<string>Applied</string>
+					<string>Ratings</string>
 					<key>level</key>
 					<integer>1</integer>
 					<key>id</key>
 					<string>gainers</string>
 					<key>image</key>
-					<string>home_menu</string>
-				</dict>
-				<dict>
-					<key>Name</key>
-					<string>In Progress</string>
-					<key>level</key>
-					<integer>1</integer>
-					<key>id</key>
-					<string>losers</string>
-					<key>image</key>
-					<string>home_menu</string>
+					<string>Ratings</string>
 				</dict>
 				<dict>
 					<key>Name</key>
@@ -73,7 +63,7 @@
 					<key>id</key>
 					<string>turnover</string>
 					<key>image</key>
-					<string>home_menu</string>
+					<string>News</string>
 				</dict>
 			</array>
 		</dict>
@@ -85,7 +75,7 @@
 			<key>id</key>
 			<string>sme</string>
 			<key>image</key>
-			<string>home_menu</string>
+			<string>Jobs</string>
 			<key>SubItems</key>
 			<array>
 				<dict>
@@ -96,7 +86,7 @@
 					<key>id</key>
 					<string>sme_marketwatch</string>
 					<key>image</key>
-					<string>home_menu</string>
+					<string>Starred</string>
 				</dict>
 				<dict>
 					<key>Name</key>
@@ -106,7 +96,7 @@
 					<key>id</key>
 					<string>sme_marketstats</string>
 					<key>image</key>
-					<string>home_menu</string>
+					<string>Advance</string>
 				</dict>
 			</array>
 		</dict>
@@ -118,7 +108,7 @@
 			<key>id</key>
 			<string>aboutus</string>
 			<key>image</key>
-			<string>home_menu</string>
+			<string>People</string>
 		</dict>
 		<dict>
 			<key>Name</key>
@@ -128,7 +118,7 @@
 			<key>id</key>
 			<string>settings</string>
 			<key>image</key>
-			<string>home_menu</string>
+			<string>Settings</string>
 		</dict>
 	</array>
 </dict>
